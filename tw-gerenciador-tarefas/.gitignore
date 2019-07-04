@@ -1,4 +1,7 @@
-
+#Extras
+HELP.MD
+mvnw
+mvnw.cd
 # Created by https://www.gitignore.io/api/java,maven,eclipse
 # Edit at https://www.gitignore.io/?templates=java,maven,eclipse
 
