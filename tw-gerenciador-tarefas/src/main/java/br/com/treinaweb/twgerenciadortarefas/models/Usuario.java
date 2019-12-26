@@ -18,6 +18,7 @@ import org.hibernate.validator.constraints.Length;
 @Table(name = "usr_usuario")
 public class Usuario {
 	
+	//Teste git
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "usr_id")
